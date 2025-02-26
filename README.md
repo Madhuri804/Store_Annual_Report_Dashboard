@@ -21,8 +21,8 @@ The Store wants to create an annual sales report for 2024. So that, the owner of
 
 9.Percentage of Total Orders delivered
 
-10.Dashboard Interaction View Dashboard
-
+10.Dashboard Interaction [View Dashboard
+](https://github.com/Madhuri804/Store_Annual_Report_Dashboard/blob/main/Store_Analysis_Dashboard.png)
 ## Process
 
 Verify data for any missing values and anomalies, and sort out the same.
